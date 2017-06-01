@@ -25,7 +25,7 @@ SECRET_KEY = 'u#=7_x3a623=(%=0a+!c8kcqc&6u_#*fmejlzlla#+30e#@hlg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['moquedire.pythonanywhere.com']
+ALLOWED_HOSTS = [moquedire.pythonanywhere.com]
 
 
 # Application definition
